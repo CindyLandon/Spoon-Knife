@@ -1,6 +1,8 @@
 I am going to commit this change without amending my previous comment, so I get a new entry in the history for it.
 Got rid of 2 lines
 ### Well hello there!
+Testing Git commit -- amend
+Now for Git commit -- amend 
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
