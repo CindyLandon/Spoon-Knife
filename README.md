@@ -1,6 +1,3 @@
-Edit 6
-Edit 5
-Edit 4
 I am going to commit this change without amending my previous comment, so I get a new entry in the history for it.
 Fix 1
 2nd Fix
