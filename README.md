@@ -1,6 +1,5 @@
 I am going to commit this change without amending my previous comment, so I get a new entry in the history for it.
-Fix 1
-2nd Fix
+Got rid of 2 lines
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
